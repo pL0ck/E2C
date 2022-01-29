@@ -93,19 +93,19 @@ Piece type can be
 
 The piece pattern is based on this table.
 
-| **0**  | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) | **00000** | **12** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) | **01100** |
+| **0**  | ![Main](docs/0.png) | **00000** | **12** | ![Main](docs/12.png) | **01100** |
 | ------ | ------------------------------------------------------------ | --------- | ------ | ------------------------------------------------------------ | --------- |
-| **1**  | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)E | **00001** | **13** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png) | **01101** |
-| **2**  | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)E | **00010** | **14** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png) | **01110** |
-| **3**  | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)E | **00011** | **15** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png) | **01111** |
-| **4**  | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png)E | **00100** | **16** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image020.png) | **10000** |
-| **5**  | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image022.png)E | **00101** | **17** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image024.png) | **10001** |
-| **6**  | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image026.png) | **00110** | **18** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image028.png) | **10010** |
-| **7**  | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image030.png) | **00111** | **19** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image032.png) | **10011** |
-| **8**  | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image034.png) | **01000** | **20** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image036.png) | **10100** |
-| **9**  | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image038.png) | **01001** | **21** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image040.png) | **10101** |
-| **10** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image042.png) | **01010** | **22** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image044.png) | **10110** |
-| **11** | ![img](file:///C:/Users/Peter/AppData/Local/Temp/msohtmlclip1/01/clip_image046.png) | **01011** |        |                                                              |           |
+| **1**  | ![Main](docs/1.png)E | **00001** | **13** | ![Main](docs/13.png) | **01101** |
+| **2**  | ![Main](docs/2.png)E | **00010** | **14** | ![Main](docs/14.png) | **01110** |
+| **3**  | ![Main](docs/3.png)E | **00011** | **15** | ![Main](docs/15.png) | **01111** |
+| **4**  | ![Main](docs/4.png)E | **00100** | **16** | ![Main](docs/16.png) | **10000** |
+| **5**  | ![Main](docs/5.png)E | **00101** | **17** | ![Main](docs/17.png) | **10001** |
+| **6**  | ![Main](docs/6.png) | **00110** | **18** | ![Main](docs/18.png) | **10010** |
+| **7**  | ![Main](docs/7.png) | **00111** | **19** | ![Main](docs/19.png) | **10011** |
+| **8**  | ![Main](docs/8.png) | **01000** | **20** | ![Main](docs/20.png) | **10100** |
+| **9**  | ![Main](docs/9.png) | **01001** | **21** | ![Main](docs/21.png) | **10101** |
+| **10** | ![Main](docs/10.png) | **01010** | **22** | ![Main](docs/22.png) | **10110** |
+| **11** | ![Main](docs/11.png) | **01011** |        |                                                              |           |
 
 
 
