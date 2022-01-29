@@ -6,7 +6,7 @@ E2C is an console based EII Solver. Well it attempts to solve EII but so far has
 
 The main screen shows stats like runtime and pieces placed. In the center is the current placement of pieces on the board and the last section shows the current config settings.
 
-![image-20220129120632629](C:\Users\Peter\AppData\Roaming\Typora\typora-user-images\image-20220129120632629.png)
+![Main](docs/main.png)
 
 
 
